@@ -10,6 +10,7 @@ import javax.swing.*;
 public class MainWindow /*extends JFrame*/ /*implements ActionListener*/ {
 
     public static void main(String[] args) {
+        //zmiana
 
         SwingUtilities.invokeLater(() ->{
             new Okno();
